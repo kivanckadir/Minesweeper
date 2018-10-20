@@ -1,4 +1,4 @@
-# Minesweeper
+# Minesweeper (Bad Coding)
 
 ## Screenshots
 
